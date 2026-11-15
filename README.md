@@ -1,4 +1,5 @@
 Software Development Engineer III @ WEX | .NET & C# | AI Engineering, Agentic Systems, MCPs & Skills | APIs & Distributed Systems
+
 <img width="400" height="400" alt="1790274669796" src="https://github.com/user-attachments/assets/d639ab84-67a6-44c3-a191-6dca8ade318a" />
 
 # Hi there, I'm Nicholas Capone Villela! 👋
